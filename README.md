@@ -1,6 +1,6 @@
 # Neural Networks for Quantum-System Simulation
 
-Materials for the 2026 CECAM School lecture series on *Neural Networks for Quantum-System Simulation*.
+Materials for the 2026 CECAM School lecture series on *Neural Networks for Quantum-System Simulation*. School website: [Machine Learning-Assisted Sampling](https://www.cecam.org/workshop-details/machine-learning-assisted-sampling-1513)
 
 Welcome! This repository contains the lecture notes, tutorial notebooks, and supporting software used throughout the course.
 
