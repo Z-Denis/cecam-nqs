@@ -105,5 +105,5 @@ For questions regarding the lecture material, please contact:
 
 Zakari Denis
 
-[zakari.denis@gmail.com](mailto:zakari.denis@gmail.com)
+<lowercase first name>.<lowercase family name>@gmail.com
 
