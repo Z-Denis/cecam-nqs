@@ -9,14 +9,15 @@ readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
 	"jax==0.10.1",
-	"jaxlib==0.10.1",
-	"jaxtyping==0.3.10",
+	"jaxlib",
+	"jaxtyping",
 	"netket==3.22.3",
 	"flax==0.12.7",
 	"optax==0.2.8",
 	"numpy",
 	"matplotlib",
 	"jupyterlab",
+	"ipywidgets",
 ]
 
 [build-system]
